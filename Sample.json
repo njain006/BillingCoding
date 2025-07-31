@@ -1,0 +1,52 @@
+clinical_notes = [
+    {
+        "note": "55yo male with type 2 diabetes presenting for routine follow-up. HbA1c 7.2%. Continued on metformin 1000mg BID. Discussed dietary modifications.",
+        "icd10": ["E11.9"],
+        "cpt": ["99213"]
+    },
+    {
+        "note": "28yo female with acute streptococcal pharyngitis. Rapid strep positive. Prescribed penicillin VK 500mg TID x10 days. Advised symptomatic management.",
+        "icd10": ["J02.0"],
+        "cpt": ["99203", "87880"]
+    },
+    {
+        "note": "72yo female with left hip osteoarthritis. Significant pain with ambulation. Scheduled for left total hip arthroplasty next month. Prescribed meloxicam 15mg daily.",
+        "icd10": ["M16.12"],
+        "cpt": ["99214", "73552"]
+    },
+    {
+        "note": "6yo male with acute asthma exacerbation. Wheezing and tachypnea present. Administered albuterol nebulizer in office with improvement. Started on prednisolone.",
+        "icd10": ["J45.901"],
+        "cpt": ["99213", "94640"]
+    },
+    {
+        "note": "Annual wellness visit for 42yo female. No new complaints. Review of systems negative. Mammogram scheduled. Vaccinations up-to-date.",
+        "icd10": ["Z00.00"],
+        "cpt": ["99396"]
+    },
+    {
+        "note": "Post-op follow-up for laparoscopic cholecystectomy. Incisions healing well. Pain controlled. Cleared for normal activity. Remove sutures in 7 days.",
+        "icd10": ["Z48.812"],
+        "cpt": ["99212"]
+    },
+    {
+        "note": "30yo male with 5cm laceration on right forearm from glass. Wound cleaned and closed with 12 nylon sutures. Tetanus booster administered.",
+        "icd10": ["S51.811A"],
+        "cpt": ["99203", "12002"]
+    },
+    {
+        "note": "Depression management visit. Patient reports improved mood on sertraline 100mg daily. PHQ-9 score decreased from 18 to 7. Continue current dose.",
+        "icd10": ["F32.9"],
+        "cpt": ["99213", "96127"]
+    },
+    {
+        "note": "Hypertension follow-up. BP 142/88 in office. Medication compliance good. Added amlodipine 5mg daily. Return in 4 weeks for recheck.",
+        "icd10": ["I10"],
+        "cpt": ["99213"]
+    },
+    {
+        "note": "New patient with migraines. Reports 8 headache days/month. Neurological exam normal. Started on topiramate 25mg daily. Order brain MRI.",
+        "icd10": ["G43.909"],
+        "cpt": ["99204", "70553"]
+    }
+]
